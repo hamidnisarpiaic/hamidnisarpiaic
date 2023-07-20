@@ -1,2 +1,3 @@
 console.log("hello world, i am testing")
-console.log(`thanks Sir Hamid`)
+let nam : string = "Hamid Nisar"
+console.log(`Hello World! ${nam} is testing`)
